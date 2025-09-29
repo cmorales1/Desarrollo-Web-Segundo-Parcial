@@ -1,0 +1,1 @@
+<!doctype html><html><head><meta charset="utf-8"><title>App</title><?php echo app('Illuminate\Foundation\Vite')(['resources/css/app.css','resources/js/app.js']); ?></head><body><div id="app"></div></body></html><?php /**PATH C:\Users\cdmor\Music\desarrollo\Parcial\proyecto-multitenant\resources\views/app.blade.php ENDPATH**/ ?>
